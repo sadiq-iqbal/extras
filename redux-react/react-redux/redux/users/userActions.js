@@ -1,0 +1,7 @@
+const actions = {
+    FECTHING_USERS: 'FETCHING_USERS',
+    FETCH_USERS_SUCCESS: 'FETCH_USERS_SUCCESS',
+    FETCH_USERS_FAILURE: 'FETCH_USERS_FAILURE'
+}
+
+export default actions
